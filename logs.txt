@@ -1,0 +1,26 @@
+Tue Dec 20 00:22:30 2022
+Enter the maximum number: 
+Tue Dec 20 00:22:32 2022
+Pol'zovatel' vvel: 7
+Tue Dec 20 00:22:32 2022
+Enter the number of attempts: 
+Tue Dec 20 00:22:33 2022
+Pol'zovatel' vvel: 3
+Tue Dec 20 00:22:33 2022
+Enter your guess: 
+Tue Dec 20 00:22:36 2022
+Pol'zovatel' vvel: 3
+Tue Dec 20 00:22:36 2022
+Your guess is too high.
+Tue Dec 20 00:22:36 2022
+Enter your guess: 
+Tue Dec 20 00:22:38 2022
+Pol'zovatel' vvel: 2
+Tue Dec 20 00:22:38 2022
+Your guess is too high.
+Tue Dec 20 00:22:38 2022
+Enter your guess: 
+Tue Dec 20 00:22:39 2022
+Pol'zovatel' vvel: 1
+Tue Dec 20 00:22:39 2022
+You guessed correctly!
